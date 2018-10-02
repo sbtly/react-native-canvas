@@ -107,6 +107,7 @@ const constructors = {
   Image,
   Path2D,
   CanvasGradient,
+  ImageData,
 };
 
 /**
